@@ -26,12 +26,13 @@
 <br>
 <div align="center">
   <a href="#" title="NgNgGiaHuy">
-    <img width="350" height="200" align="center" style="margin-right: 0px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgNgGiaHuy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&bg_color=282a36&langs_count=8&layout=compact&border_color=ff79c6&hide_border=true&custom_title=TSQL%20and%20Python%20Stats&theme=dracula&langs_color=bd93f9,ff79c6" />
+    <img width="300" height="150" align="center" style="margin-right: 15px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgNgGiaHuy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&bg_color=282a36&langs_count=8&layout=compact&border_color=ff79c6&hide_border=true&custom_title=TSQL%20and%20Python%20Stats&theme=dracula&langs_color=bd93f9,ff79c6" />
   </a>
   <a href="#" title="NgNgGiaHuy">
-    <img width="350" height="200" align="right" style="margin-left: 20px;" src="https://github-readme-stats.vercel.app/api?username=NgNgGiaHuy&show_icons=true&theme=dracula&border_color=ff79c6&hide_border=true&rank_icon=github&include_all_commits=true" />
+    <img width="300" height="150" align="center" style="margin-left: 15px;" src="https://github-readme-stats.vercel.app/api?username=NgNgGiaHuy&show_icons=true&theme=dracula&border_color=ff79c6&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
+
 
 
 
