@@ -34,7 +34,10 @@
   </a>
 </div>
 
+<br>
+
 <hr/>
+
 <h2 align="center">📑 My Favorite Quotes 📑</h2>
 <br>
 
