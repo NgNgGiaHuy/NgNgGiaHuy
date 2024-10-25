@@ -3,7 +3,7 @@
 </h1>
 <div align="center" style="line-height: 1.5;">
     <h3>I’m a student of Ho Chi Minh University Of Banking</h3>
-    <p>⚡ Major: Business Data Science.</p>
+    <p>⚡ Major: Data Science.</p>
     <p>🌱 Short-term goals: Gaining extensive experience and knowledge in the role of a Data Analyst.</p>
     <p>💥 Long-term goal: Becoming an experienced Data Scientist within the next 10 years.</p>
 </div>
