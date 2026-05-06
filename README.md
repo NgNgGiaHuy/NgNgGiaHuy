@@ -30,12 +30,12 @@
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 10px;">
         <a href="https://github.com/NgNgGiaHuy" title="NgNgGiaHuy">
-          <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgNgGiaHuy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&bg_color=282a36&langs_count=8&layout=compact&border_color=ff79c6&hide_border=true&custom_title=TSQL%20and%20Python%20Stats&theme=dracula&langs_color=bd93f9,ff79c6" alt="Top Langs" />
+          <img width="380" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NgNgGiaHuy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&bg_color=282a36&langs_count=8&layout=compact&border_color=ff79c6&hide_border=true&custom_title=TSQL%20and%20Python%20Stats&theme=dracula&langs_color=bd93f9,ff79c6" alt="Top Langs" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 10px;">
         <a href="https://github.com/NgNgGiaHuy" title="NgNgGiaHuy">
-          <img width="380" src="https://github-readme-stats.vercel.app/api?username=NgNgGiaHuy&show_icons=true&theme=dracula&border_color=ff79c6&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+          <img width="380" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NgNgGiaHuy&show_icons=true&theme=dracula&border_color=ff79c6&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
         </a>
       </td>
     </tr>
