@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Gia+Huy!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+%F0%9F%91%8B;I%27m+Gia+Huy!" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-    <h3>I’m a student of Ho Chi Minh University Of Banking</h3>
+    <h3>I’m a Data Analyst With 2+ year experience</h3>
     <p>⚡ Major: Data Science.</p>
 </div>
 
