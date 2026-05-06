@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <h3>I’m a Data Analyst With 2+ year experience</h3>
+    <h3>I’m a Data Analyst With 2+ years experience</h3>
 </div>
 
 <br>
