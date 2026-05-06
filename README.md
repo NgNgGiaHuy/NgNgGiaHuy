@@ -4,7 +4,6 @@
 
 <div align="center">
     <h3>I’m a Data Analyst With 2+ year experience</h3>
-    <p>⚡ Major: Data Science.</p>
 </div>
 
 <br>
